@@ -15,7 +15,7 @@ Aṕos informar os dados do paciente, e pressionar o botão "Calcular", é apres
 
 **OBS**:
 IMC Calculado com base na seguinte tabela apresentada:
-[Tabela IMC](https://files.passeidireto.com/14186eca-697b-4716-997d-8fa52f23e7a2/14186eca-697b-4716-997d-8fa52f23e7a2.jpeg)
+![Tabela IMC](https://files.passeidireto.com/14186eca-697b-4716-997d-8fa52f23e7a2/14186eca-697b-4716-997d-8fa52f23e7a2.jpeg)
 
 
 Projeto realizado utilizando-se do framework Flutter, conforme demonstrado pelo prof. Daniel Ciolfi na plataforma Udemy.
