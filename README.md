@@ -1,6 +1,6 @@
 # Calculo de IMC(Índice de Massa Corporal)
 
-![Interface do App](images/calculoIMC.jpg =250x)
+![Interface do App](images/calculoIMC.jpg){ width=50% }
 
 ## Objetivo
 
