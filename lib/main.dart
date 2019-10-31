@@ -41,17 +41,15 @@ class _HomeState extends State<Home> {
       if (imc < 18.5) {
         _infoText = "Abaixo do peso\nIMC: ${imc.toStringAsPrecision(3)}";
       } else if (imc >= 18.5 && imc < 24.9) {
-        _infoText = "Peso Normal\nIMC: ${imc.toStringAsPrecision(3)}";
+        _infoText = "Peso Adequado\nIMC: ${imc.toStringAsPrecision(3)}";
       } else if (imc >= 25 && imc < 29.9) {
         _infoText = "Sobrepeso\nIMC: ${imc.toStringAsPrecision(3)}";
       } else if (imc >= 30 && imc < 34.9) {
-        _infoText = "Obesidade (Grau I)\nIMC: ${imc.toStringAsPrecision(3)}";
+        _infoText = "Obesidade Grau I\nIMC: ${imc.toStringAsPrecision(3)}";
       } else if (imc >= 35 && imc < 39.9) {
-        _infoText =
-            "Obesidade Severa (Grau II)\nIMC: ${imc.toStringAsPrecision(3)}";
+        _infoText = "Obesidade Grau II\nIMC: ${imc.toStringAsPrecision(3)}";
       } else if (imc >= 40) {
-        _infoText =
-            "Obesidade Mórbida (Grau III)\nIMC: ${imc.toStringAsPrecision(3)}";
+        _infoText = "Obesidade Grau III\nIMC: ${imc.toStringAsPrecision(3)}";
       }
     });
   }

@@ -14,8 +14,8 @@ Efetuar o cálculo IMC repassando-se as informações obtidos de um paciente.
 Aṕos informar os dados do paciente, e pressionar o botão "Calcular", é apresentado uma mensagem informando qual a classificação do IMC o paciente está juntamente com o grau do IMC.
 
 **OBS**:
-IMC Calculado com base na seguinte tabela apresentada:
-![Tabela IMC](https://files.passeidireto.com/14186eca-697b-4716-997d-8fa52f23e7a2/14186eca-697b-4716-997d-8fa52f23e7a2.jpeg)
+IMC Calculado com base na tabela apresentada no site [Saúde Brasil](http://saudebrasil.saude.gov.br):
+![Tabela IMC](http://saudebrasil.saude.gov.br/infograficos/calculo-imc/images/passo22.png)
 
 
 Projeto realizado utilizando-se do framework Flutter, conforme demonstrado pelo prof. Daniel Ciolfi na plataforma Udemy.
